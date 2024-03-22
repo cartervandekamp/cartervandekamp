@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Carter Vandekamp 👋</h1> 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carter-vandekamp-087037262/)
 
 <h2>My Skills 💻 </h2>
 
